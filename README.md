@@ -16,7 +16,7 @@
 
 ### 6. Then you can simply run the simulator using: `python3 charging_sim.py`
 
-### Note: For your convenience I had also added a jupyter notebook which is visible as well from within the GitHub. It also contains all my bonus answers
+### Note: For your convenience I have also added a Jupyter Notebook which is visible within the GitHub. It also contains all my bonus answers as described in the assignment.
 
 ## How to run the code locally if you desire:
 

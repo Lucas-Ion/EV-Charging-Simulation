@@ -1,9 +1,9 @@
 # Reonic Takehome Challenge
 # [Access the cloud deployed Task 2A by clicking here 🛜](https://reonic-simulation-dashboard.onrender.com/)
 
-## How to run the code locally if you desire
+## How to run the code locally if you desire:
 
-## For `Task 1 `
+## `Task 1 `
 
 ### 1. First begin by downloading the repo.
 
@@ -18,3 +18,19 @@
 ### 6. Then you can simply run the simulator using: python3 charging_sim.py
 
 ### Note: For your convenience I had also added a jupyter notebook which is visible as well from within the GitHub. It also contains all my bonus answers
+
+## `Task 2A `
+
+### 1. To run Task 2, navigate to the folder `Task-2`
+
+### 2. Open one terminal window
+
+### 3. Navigate to `reonic-frontend`
+
+### 4. Now run `npm install`
+
+### 5. Now run `npm run dev`
+
+### 6. The UI should be up and running on your local host!
+
+# Note: If you are running into any issues getting the code up and running on your local machine please do not hesitate to reach out.

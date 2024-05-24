@@ -1,5 +1,6 @@
 # Reonic Takehome Challenge
 # [Access the cloud deployed Task 2A by clicking here 🛜](https://reonic-simulation-dashboard.onrender.com/)
+### Some information about the cloud deployed Task 2A. The UI is built with React, TypeScript and Tailwind. I then connected the simulation algorithm written in Python from Task 1 to a Flask Server that is deployed to the cloud. The Frontend  takes in the input values as described and renders the live output based on the results from the simulation.
 
 ## `Task 1 `
 

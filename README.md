@@ -13,7 +13,7 @@
 
 ### 5. Then ensure you have numpy installed in your virtual enviroment using: `pip3 install numpy`
 
-### 6. Then you can simply run the simulator using: python3 charging_sim.py
+### 6. Then you can simply run the simulator using: `python3 charging_sim.py`
 
 ### Note: For your convenience I had also added a jupyter notebook which is visible as well from within the GitHub. It also contains all my bonus answers
 

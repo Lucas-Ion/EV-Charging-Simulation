@@ -14,7 +14,7 @@ const useSimulation = () => {
     setLoading(true); // Set loading to true before the request
     try {
       // Make POST request to actually run the simulation
-      const response = await axios.post('http://127.0.0.1:5000/run_simulation', params);
+      const response = await axios.post('https://ev-simulation-engine.onrender.com/run_simulation', params);
       setResults(response.data); // Set the results state with the response data
     } catch (error) {
       console.error('Simulation error:', error); // Log any errors

@@ -21,6 +21,6 @@ export interface SimulationResults {
 
 // Function to run the simulation with provided params
 export const runSimulation = async (params: SimulationParams): Promise<SimulationResults> => {
-  const response = await axios.post<SimulationResults>('http://127.0.0.1:5000/run_simulation', params);
+  const response = await axios.post<SimulationResults>('https://ev-simulation-engine.onrender.com/run_simulation', params);
   return response.data; // Return the simulation results
 };

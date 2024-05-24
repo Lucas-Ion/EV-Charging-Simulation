@@ -18,9 +18,9 @@
 
 ### Note: For your convenience I have also added a Jupyter Notebook which is visible within the GitHub. It also contains all my bonus answers as described in the assignment.
 
-## How to run the code locally if you desire:
-
 ## `Task 2A `
+
+## How to run the code locally if you desire:
 
 ### 1. To run Task 2, navigate to the folder `Task-2`
 

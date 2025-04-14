@@ -1,8 +1,3 @@
-![Reonic](https://github.com/Lucas-Ion/EV-Charging-Simulation/assets/65054476/887f81b6-c8b3-48fa-9e3e-60cac812df72)
-
-# Takehome Submission
-# [Access the cloud deployed Task 2A by clicking here 🛜](https://reonic-simulation-dashboard.onrender.com/)
-### Some information about the cloud deployed Task 2A. The UI is built with React, TypeScript and Tailwind. I then connected the simulation algorithm written in Python from Task 1 to a Flask Server that is deployed to the cloud. The Frontend  takes in the input values as described and renders the live output based on the results from the simulation.
 
 ## `Task 1 `
 
